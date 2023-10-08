@@ -1,6 +1,7 @@
 # Office Tool ##
 
 ### Download Office Tool từ [trang chủ](https://otp.landian.vip/en-us/download.html) hoặc [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6hRAVsoKtX3IMry13?e=fXuFeU)
+- ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
 ## HƯỚNG DẪN SỬ DỤNG ##
 
