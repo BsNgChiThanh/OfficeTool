@@ -18,7 +18,21 @@
 - Chọn các thông số và bấm **Bất đầu triển khai** là nó sẽ cài đặt.
 - ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/18cc0214-72fe-40b5-9c04-f923f1180d00)
 
-### KÍCH HOẠT OFFICE: ###
+### CÀI ĐẶT GIẤY PHÉP OFFICE: ###
+- Cài xong bạn chọn tab kích hoạt:
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/2427f2eb-f82b-40ca-87c6-0e116c61ac75)
+- Cài đặt giấy phép.
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/249b730d-3eb9-4117-9df3-7a77ea89904a)
+- Chọn bản Office cần gán giấy phép
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/a5cc067d-32bd-4002-952c-88a6e4d394a7)
+
+#### Lưu ý: ####
+- Chỉ gán giấy phép sau đó bạn dùng các key chia sẽ trên mạng kích hoạt.
+- Bản thân Tool không thể kích hoạt được office.
+
+
+
+
 
 
 
