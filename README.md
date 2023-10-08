@@ -30,11 +30,34 @@
 - Chỉ gán giấy phép sau đó bạn dùng các key chia sẽ trên mạng kích hoạt.
 - Bản thân Tool không thể kích hoạt được office.
 
+**VÍ DỤ:**
 
+- Tôi đang sử dụng Office 365 Enterprise, tôi muốn kích hoạt thêm office LTSC prolus 2021 vĩnh viễn để secure tôi làm như sau:
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/7671f207-db3f-497c-affb-289f91dc7fa6)
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/4462a0a3-1fe6-4680-baff-0fe270f229e4)
+- Vậy là đã install giấy phép dùng thử xong, ta tiến hành kích hoạt bằng: 
 
+##### ACTIVE OFFICE BY PHONE BẰNG [Activate AIO Tools](https://github.com/BsNgChiThanh/ActivateAIOTools/edit/IMP/README.md): #####
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/83b018c0-bcef-4e90-ba5b-02eb1e8fe0a4)
+- Bấm **I**
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/6170852b-15a2-49db-b2fb-250a2dcd6fff)
+- Chọn **3** (Office 2016, 2019, 2021, office 365 ta chọn số 3 đúng hết quí vị ạ)
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/e969d198-ca17-4750-90e0-58da82ca3a1d)
+- Nhập key và đánh enter:
+  - Một số key như:
+    - QMPN8-MMTJP-8XWGC-C3QK8-J8JPF
+    - 8H6GC-NF43M-8CV39-28QXB-B4KJK
+    - 93QKN-RJQ8F-9V8X2-JBCVT-C928K
+    - YMNBH-7XPR2-XWPR8-9PW8T-9K28K
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/26d2dd3b-97c5-4f7b-b482-eb28a229d52d)
+- Copy đoạn mã dán vào như hình sau:
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/ebd21143-9c95-4d9d-93e7-cba59b5d062a)
+- Đánh enter rồi xem kết quả:
+- ![image](https://github.com/BsNgChiThanh/ActivateAIOTools/assets/82578024/2c4b80b0-12ff-4e95-aec4-95a22346782e)
 
-
-
-
-
-
+##### ACTIVE OFFICE BẰNG [MAS-TOOL](https://github.com/BsNgChiThanh/MAS-TOOL/edit/IMP/README.md) #####
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/0ea726fb-aa05-4e0c-96ee-cc793caf2ee4)
+- Bấm số 2
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/4a1d4441-0c7e-4d56-8ee5-cf5512d9e202)
+- Bấm số 1
+- ![image](https://github.com/BsNgChiThanh/OfficeTool/assets/82578024/5bc049ed-69e1-4b65-8986-3acc3cd97e61)
